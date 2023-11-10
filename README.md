@@ -1,6 +1,6 @@
 ### Hi 🐶
 <div align=left> 
-  <img src="https://github-stats-alpha.vercel.app/api?username=HenriqueRicardoFigueira&&cc=0a0f0b&tc=37BCF2&ic=e4e2e2">
+  <img src="https://my-stats-weld-tau.vercel.app/api?username=HenriqueRicardoFigueira&theme=dracula&count_private=true&show_icons=true&include_all_commits=true">
 </div>
 
 <h3>Languages and Tools:</h3>
