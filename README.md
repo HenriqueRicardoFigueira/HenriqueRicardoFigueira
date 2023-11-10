@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 🐶
+<div align=left> 
+  <img src="https://github-stats-alpha.vercel.app/api?username=HenriqueRicardoFigueira&&cc=0a0f0b&tc=37BCF2&ic=e4e2e2">
+</div>
 
-<!--
-**HenriqueRicardoFigueira/HenriqueRicardoFigueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Languages and Tools:</h3>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=ruby,python,cs,c,nodejs,python,mysql)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=rails,aws,github,docker,postman,net,linux)](https://skillicons.dev)
+
+
+<div style="display:flex;justify-content:left;">
+  <img src="https://github-profile-trophy.vercel.app/?username=HenriqueRicardoFigueira&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
