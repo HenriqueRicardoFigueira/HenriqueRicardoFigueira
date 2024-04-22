@@ -5,7 +5,7 @@
 
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,python,cs,c,nodejs,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,python,cs,c,nodejs,c++,mysql)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=rails,aws,github,docker,postman,net,linux)](https://skillicons.dev)
 
