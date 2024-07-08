@@ -5,6 +5,8 @@
   <div/>
   <img src="https://my-stats-weld-tau.vercel.app/api?username=HenriqueRicardoFigueira&show_icons=true&theme=dark">
 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HenriqueRicardoFigueira&theme=whatsapp-dark2" alt="GitHub Streak" />
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
