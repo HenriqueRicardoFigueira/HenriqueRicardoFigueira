@@ -1,5 +1,5 @@
 <div align=center> 
-  <img src="https://my-stats-weld-tau.vercel.app/api?username=HenriqueRicardoFigueira&theme=dracula&count_private=true&show_icons=true&include_all_commits=true">
+  <img src="https://my-stats-weld-tau.vercel.app/api?username=HenriqueRicardoFigueira&show_icons=true&theme=dark">
 </div>
 
 <div align="center">
