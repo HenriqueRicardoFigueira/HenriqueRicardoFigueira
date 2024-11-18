@@ -8,7 +8,7 @@
 
 <div align="center">
    <img src="https://my-stats-weld-tau.vercel.app/api?username=HenriqueRicardoFigueira&show_icons=true&theme=dark" style="margin-right: 10px;">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=HenriqueRicardoFigueira&theme=whatsapp-dark2" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=HenriqueRicardoFigueira" alt="GitHub Streak" />
 </div>
 
 <div align="center">
