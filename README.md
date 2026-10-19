@@ -20,11 +20,12 @@ Most of my production work is in private repositories. What is public is a sampl
 
 ## Stack
 
-Ruby on Rails, Python, TypeScript, PostgreSQL, Sidekiq, Docker, AWS. Testing with RSpec and TDD on the Rails side.
+Ruby on Rails, PHP, Python, TypeScript, PostgreSQL, Sidekiq, Docker, AWS. Testing with RSpec and TDD on the Rails side.
 
 ## Education
 
-B.Sc. Computer Science, UTFPR.
+- Especialização, Inteligência Artificial Generativa Aplicada — UTFPR (in progress)
+- B.Sc. Computer Science, UTFPR
 
 ## Contact
 
