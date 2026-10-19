@@ -1,48 +1,31 @@
-<div align="center"> 
-   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans&pause=1000&color=67F76A&width=435&lines=Hi!+🐶+I'm+Henrique+Ricardo+Figueira;Software+Specialist+at+Madeira+Madeira;Open+Source+Enthusiast+and+Dog+Lover" alt="Typing SVG" />
-   </a>
-</div>
+# Henrique Ricardo Figueira
 
----
+Software engineer in São Paulo. Specialist at [MadeiraMadeira](https://github.com/madeiramadeirabr). Previously senior engineer at CashU, building credit products on Ruby on Rails.
 
-<div align="center">
-   <img src="https://my-stats-weld-tau.vercel.app/api?username=HenriqueRicardoFigueira&show_icons=true&theme=dark" style="margin-right: 10px;">
-</div>
+Most of my production work is in private repositories. What is public is a sample of how I build.
 
-<div align="center">
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
-      <img alt="GitHub Snake" src="./dist/github--snake.svg">
-   </picture>
-</div>
+## Experience
 
----
+- **MadeiraMadeira** — Software specialist (2025–present)
+- **CashU** — Software engineer, junior to senior (2021–2025). Credit platform: system design, third-party APIs, async processing with Sidekiq, and a product that became the company’s main offering.
+- **Questor Sistemas** — Full-stack engineer (2020–2021). ERP on C# / ASP.NET MVC.
+- **Fortron** — Full-stack engineer (2020). ISOBUS planting monitor in C/C++, Python API between ERP and e-commerce, and a SocketCAN / SAE J1939 fix that landed in the Linux kernel.
 
-### 📚 About Me
+## Selected work
 
-I am an experienced fullstack developer, proficient in Ruby on Rails, Python, and JavaScript/TypeScript. I also have extensive experience in remote work, developing and maintaining highly scalable applications. My knowledge includes MVC architecture, server architecture, APIs, REST, TDD, Machine Learning, AWS resources, and more.
+- [dbeaver-readonly-mcp](https://github.com/HenriqueRicardoFigueira/dbeaver-readonly-mcp) — MCP server with read-only access to databases already configured in DBeaver.
+- [ecommerce_api](https://github.com/HenriqueRicardoFigueira/ecommerce_api) — BFF and services for checkout, payments, and shipping. NestJS, Kafka, Prisma, MySQL, Docker.
+- [github-discord-bot](https://github.com/HenriqueRicardoFigueira/github-discord-bot) — Rails bot that posts GitHub releases and review requests to Discord.
+- [Checaii](https://www.checaii.com.br) — agent that checks an online store before checkout. 2nd place, Deco Agents for Commerce hackathon.
 
----
+## Stack
 
-### 🚀 Skills & Expertise
+Ruby on Rails, Python, TypeScript, PostgreSQL, Sidekiq, Docker, AWS. Testing with RSpec and TDD on the Rails side.
 
-| **Languages / Frameworks** | **Domain Knowledge** | **CI / CD** | **Databases** |
-|-----------------------------|------------------------------|-------------|---------------------|
-| ![Ruby Badge](https://img.shields.io/badge/-Ruby-red?style=flat&logo=ruby&logoColor=white) ![Rails Badge](https://img.shields.io/badge/-Rails-cc0000?style=flat&logo=rubyonrails&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![C# Badge](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) | ![Computer Science](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white) ![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-4C8CBF?style=flat&logoColor=white) ![Software Development](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) ![Server Architecture](https://img.shields.io/badge/-Server%20Architecture-007ACC?style=flat&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-FF5722?style=flat&logoColor=white) ![REST](https://img.shields.io/badge/-REST-000000?style=flat&logoColor=white) ![TDD](https://img.shields.io/badge/-TDD-6DB33F?style=flat&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) |
+## Education
 
-### 📈 GitHub Stats
+B.Sc. Computer Science, UTFPR.
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRicardoFigueira&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+## Contact
 
----
-
-### 🤝 Let's Connect!
-
-- **LinkedIn**: [Henrique Figueira](https://www.linkedin.com/in/henrique-ricardo-figueira/)
-- **Email**: henrislip@gmail.com
-
----
+[LinkedIn](https://www.linkedin.com/in/henrique-ricardo-figueira/) · henrislip@gmail.com
